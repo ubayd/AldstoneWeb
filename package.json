@@ -1,0 +1,22 @@
+{
+  "name": "aldstoneweb",
+  "version": "1.0.0",
+  "description": "\"Aldstone prototype\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Ruky",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.6.9",
+    "chart.js": "^2.8.0",
+    "jquery": "^3.4.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
